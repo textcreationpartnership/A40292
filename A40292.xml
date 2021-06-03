@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all the kings, princes, and governours in the whole world and all that profess themselves Christians, and others, to read and consider / by G. Fox.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 88KB of XML-encoded text transcribed from 44 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40292</idno><idno type="EEBO-CITATION">18428985</idno>
+  <idno type="VID">107629</idno>
+  <idno type="EEBO-PROQUEST">2240861415</idno>
+  
+            <idno type="STC">Wing F1949</idno>
+            <idno type="STC">ESTC R39547</idno>
+            <idno type="OCLC">18428985</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40292)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107629)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1632:62)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all the kings, princes, and governours in the whole world and all that profess themselves Christians, and others, to read and consider / by G. Fox.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>[2], 41 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>"This was upon me from the Lord to write unto you."</note>
+                  <note>Imperfect: stained and torn.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107629:1"/>
+            <p>TO ALL THE KINGS, PRINCES, AND GOVERNOURS In the whole World; And all that Profess themselves Christians, and others, to Read and Consider.</p>
+            <p>
+               <hi>This was upon me from the Lord to write unto you.</hi>
+            </p>
+            <p>By <hi>G. Fox.</hi>
+            </p>
+            <p>Printed in the Year, 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:107629:2"/>
+            <pb n="1" facs="tcp:107629:2"/>
+            <p>ANd the Word of the Lord is to you, that God is come, and coming to teach his People Himself, by his Son Christ Jesus.</p>
+            <p>For the Lord God <hi>that made all things in six days,</hi> and Man and Woman in his Image, and placed them in <hi>Para<g ref="char:EOLhyphen"/>dice;</hi> God-Almighty was their Teacher, their Guider, and their Orderer, who did teach them what to do, and what to leave undone; and as long as they kept under God's Teach<g ref="char:EOLhyphen"/>ing, they were happy, and kept in the Image and likeness of God, and in his Righteousness and Holiness, and in the <hi>Para<g ref="char:EOLhyphen"/>dice</hi> of God.</p>
+            <p>But when they forsook God's Teaching, and disobeyed God's Command, and hearkned unto the Serpents teaching, and obeyed his command, they lost the Image, and Righteous<g ref="char:EOLhyphen"/>ness, and Holiness, and likeness of God, and were driven out of <hi>Paradice,</hi> and so came into darkness, and the Fall, and fell into Sin and Misery, and into the Imperfect Corrupt State.</p>
+            <p>And so death reigned from <hi>Adam</hi> to <hi>Moses,</hi> and so as by the offence of one (to wit, <hi>Adam</hi>) came Judgment upon all Men to Condemnation.</p>
+            <p>Even so by the Righteousness of Christ, the free gift is come upon all Men, to Justification of Life.</p>
+            <p>And so Death reigned from <hi>Adam</hi> till <hi>Moses,</hi> and the Law and the Prophets were until <hi>John.</hi>
+            </p>
+            <p>And now Christ being come, the Seed of the Woman to bruise the Serpents head, he saith, <hi>Learn of me, I am the way, the Truth, and the Life, and no Man comes to the Father but by Me.</hi>
+            </p>
+            <pb n="2" facs="tcp:107629:3"/>
+            <p>So here you may see Christ is the Teacher again, who is the way to God, who bruises the head of the Serpent, the false Teacher; that led <hi>Adam</hi> and <hi>Eve</hi> from God, and is the head of all false Teachers.</p>
+            <p>
+               <hi>For God so loved the World, that he gave his only begotten Son into the World, that whosoever believeth in Him, shall not Perish, but have everlasting Life.</hi>
+            </p>
+            <p>And moreover, God saith, <hi>This is my beloved Son, hear ye Him, in whom I am well pleased.</hi>
+            </p>
+            <p>So here all People is to believe in, and hear the Son, and learn of Him.</p>
+            <p>And the Apostle saith to the Hebrews, <hi>God, who at sundry times, and in divers manner, spoke in times past to the Fathers by the Prophets, hath in these last days spoken unto us by his Son, whom He hath appointed Heir of all things, by whom also he hath made the World.</hi>
+            </p>
+            <p>So here you may see that God, who was the first Speaker in <hi>Paradice</hi> to <hi>Adam</hi> and <hi>Eve,</hi> was the Speaker again to the Apo<g ref="char:EOLhyphen"/>stles, and the Church in the Primitive times, by Christ Jesus, who <hi>Renews Man up into the Image of God, and Righteousness and Holiness,</hi> as Man was in, before he fell.</p>
+            <p>So the same God, I say, is the Speaker now in these days, by Christ his Son, to his People, as He was in the Apostles days; and He renews us up in the Image of God, and Righte<g ref="char:EOLhyphen"/>ousness, and Holyness, as they were in before they fell.</p>
+            <p>And this is my message to you all.</p>
+            <p>That God, who was the first Teacher and Speaker to <hi>A<g ref="char:EOLhyphen"/>dam</hi> and <hi>Eve</hi> in Paradice, and was the Speaker and Teacher to the Apostles and Church in the Primitive Times, is now come to Teach his People Himself by his Son, if ye will hear him; as in <hi>Heb.</hi> the 7th.</p>
+            <p>And as the Apostle saith, <hi>Refuse not him that speaketh from Heaven, for if they escaped not that refused him that speak on Earth, much more shall not we escape if we turn away from him that speaks from Heaven,</hi> Heb. 12.25.</p>
+            <pb n="3" facs="tcp:107629:3"/>
+            <p>Object. <hi>But now you may object, and say, how shall we hear him? and where, and when?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> God poured out his Spirit upon the House of <hi>Israel,</hi> to whom he gave his Law, which was Holy, Just, and Good; that by God's Spirit that was poured upon them, they might understand his Law, and hear his Voyce; as in <hi>Ezek.</hi> 39.29.</p>
+            <p>And <hi>Moses</hi> said, <hi>Like unto me will God raise up a Prophet, him shall ye hear in all things.</hi>
+            </p>
+            <p>
+               <hi>And it shall come to pass that every soul that will not hear that Prophet, shall be destroyed from amongst the People.</hi>
+            </p>
+            <p>And his <hi>Prophet</hi> is <hi>Christ Jesus,</hi> as you may see in <hi>Acts</hi> 3.24. to the end, whom God hath raised up.</p>
+            <p>And in <hi>Joel.</hi> 2. and <hi>Acts</hi> 2. they said, <hi>How that God would pour out of his Spirit in the last days, upon all Flesh.</hi>
+            </p>
+            <p>So that now this Spirit God hath poured out, and is pouring out upon all Flesh (so God doth not here respect some Flesh, and leave out others, or make a Sect) but poures out his Spirit upon all Flesh, to wit, <hi>Jews</hi> and <hi>Gentiles;</hi> for he had poured out his Spirit upon the House of <hi>Israel</hi> in the former times; but now in the last days, or days of Christ, the Christians days, <hi>He has poured out his Spirit upon all</hi> Flesh.</p>
+            <p>That with, and by this Spirit, all Flesh might see the Sal<g ref="char:EOLhyphen"/>vation of God, and by this Spirit they might all hear God and Christ, his Son, by whom God speaks, who is the alone first and last true Teacher and Speaker.</p>
+            <p>And as <hi>John</hi> saith, <hi>In the beginning was the Word, and the Word was with God, and all things was made by him, and with<g ref="char:EOLhyphen"/>out him was there not any thing made that was made, and in Him</hi> was Life, (to wit, the Word) <hi>and the Life was the Light of Men,</hi> and that <hi>was the true Light which lighteth every man that cometh into the World,</hi> to wit, the Life that is in the <hi>Word,</hi> which was before any thing was made.</p>
+            <p>So this Light which is the Life in the Word, is not Natural nor Created.</p>
+            <pb n="4" facs="tcp:107629:4"/>
+            <p>And Christ saith, <hi>Believe in the Light, that ye may become Children of the Light,</hi> John 12.36.</p>
+            <p>And so by belief in the Spiritual, Heavenly and Divine Light, which is the Life in Christ the Word, which was in the Beginning, by which all things were made: They came and come to be grafted into Christ, the Heavenly Root that bears them, and so becomes <hi>Children of the Light.</hi>
+            </p>
+            <p>So here you may see Christ <hi>Jesus, the second</hi> Adam, <hi>the Lord from Heaven, who is the light of the World, and lightens every man that cometh into the world,</hi> saith, <hi>Believe in the light, that you may become Children of the light;</hi> and this is the Heavenly Divine Light that doth let you see all your sins that you have acted or committed, and all your evil words or thoughts that you have ungodly thought or spoken; and so the same Light which lets you see all your sins, will also let you see your Saviour Christ Jesus, from whence the light doth come to save you from your sins.</p>
+            <p>And if you do Evil, and hate this Light, and will not come to it, because it doth reprove you, this Light will be your Con<g ref="char:EOLhyphen"/>demnation, <hi>Joh.</hi> 3.</p>
+            <p>For the Apostle saith, <hi>VVhatsoever doth reprove and make manifest, is Light.</hi>
+            </p>
+            <p>And Christ was an Offering for the sins of the whole world, therefore all are to look unto him.</p>
+            <p>And he <hi>is a Propitiation for the sins of the whole world, and hath tasted Death for every man;</hi> as in <hi>Heb.</hi> 2.9. and 1 <hi>Joh.</hi> 2.2.</p>
+            <p>
+               <hi>And the Grace of God that brings Salvation, hath appeared to all men, teaching us</hi> (to wit, the true Christians) <hi>that denying ungodliness and worldly Lusts, we should live soberly and Godly in this present world,</hi> Tit. 2.11, 12.</p>
+            <p>Now this was and is all the true Christians Teacher, the Grace of God which brings their Salvation, <hi>which hath ap<g ref="char:EOLhyphen"/>peared unto all men.</hi>
+            </p>
+            <p>So if all men have and know Salvation, it is brought to them
+<pb n="5" facs="tcp:107629:4"/>by this <hi>Grace of God, their Teacher;</hi> which Grace brought Salvation to the Church in the Primitive Times, and which Grace brings the Salvation to the true Church now in our Times.</p>
+            <p>Object. <hi>Now if you should enquire, or ask from whence comes this Grace.</hi>
+            </p>
+            <p>
+               <hi>Answ. The Law came by</hi> Moses <hi>to the</hi> Jews, the House of <hi>Israel,</hi> upon whom God poured out of his Spirit that they might understand his Law.</p>
+            <p>But <hi>this Grace of God and Truth comes by Jesus Christ,</hi> which hath appeared unto all men, to teach them and bring their Salvation.</p>
+            <p>Now such as turns it into Wantonness, and walks despite<g ref="char:EOLhyphen"/>fully against the Grace their Teacher, unto such it does not bring their Salvation, but Woe is pronounced against such, as you may read in <hi>Jude.</hi>
+            </p>
+            <p>
+               <hi>For such as turns the Grace of God into Wantonness,</hi> which comes by Jesus Christ, <hi>denys the Lord that Bought them,</hi> and denys the Grace of God their Teacher, which should bring their Salvation.</p>
+            <p>And <hi>Christ, who has tasted Death for every man, and was an Offering for the Sins of the whole World, has enlight<g ref="char:EOLhyphen"/>ned every Man that cometh into the World;</hi> so his Light hath appeared unto all, that they might come to it and believe in the Light; and his Grace hath appeared unto all men, to teach them, and bring their Salvation.</p>
+            <p>Now whilst Christ was with his Disciples, he sent them first to Preach Salvation to the lost Sheep of the House of <hi>Israel,</hi> and not to go in the way of the <hi>Gentiles;</hi> and when he gave them his Commission, he said unto them, <hi>Freely you have Re<g ref="char:EOLhyphen"/>ceived, freely Give.</hi>
+            </p>
+            <p>And after Christ was risen from the Dead, he gave his Dis<g ref="char:EOLhyphen"/>ciples a larger Commission, &amp; bid them then <hi>Goe into all Nati<g ref="char:EOLhyphen"/>ons, and to Preach the Gospel to every Creature under Heaven.</hi>
+            </p>
+            <p>So God having poured out his Spirit upon all Flesh, that by
+<pb n="6" facs="tcp:107629:5"/>the Spirit they might understand his Gospel, and by his Light which enlightens all men, they might see it; and by his Grace which hath appeared unto all men, they might receive his Gospel which was sent down from Heaven, as <hi>Peter</hi> says, and so not from men.</p>
+            <p>And the Apostle said, <hi>God would Judge the World accor<g ref="char:EOLhyphen"/>ding to his Gospel, by the Man Christ Jesus;</hi> that is according to the Invisible power, the Everlasting Gospel which is Preacht to every Creature under Heaven, according as they receive it and obey it; or does not receive it, but disobey it.</p>
+            <p>And so this everlasting Gospel being Preached again, and received again, as it was in the Apostles days, which brings Life and Immortality to light, by which we see over the De<g ref="char:EOLhyphen"/>vil that has darkened us from this Life and Immortality, who led <hi>Adam</hi> and <hi>Eve</hi> into the Fall from the Image of God.</p>
+            <p>And so the glorious Fellowship of the Gospel, and Salva<g ref="char:EOLhyphen"/>tion is known again, and received and obeyed by us, the Peo<g ref="char:EOLhyphen"/>ple of God, called <hi>Quakers,</hi> who knows his Voyce that shakes the Heavens and the Earth, that, that may appear, and that has appeared that cannot be shaken.</p>
+            <p>And so all people upon the face of the Earth, must come to the Spirit, that God has poured upon all Flesh, and know the Spirit in their hearts, and the Truth there, that by this Spirit they may be Baptised and Circumcised; which Circumcision of the Spirit will cut off Sin and Death, and Imperfection, which has gotten into them by disobedience and transgression; and that they may worship and serve God in the Spirit and in the Truth; and this Spirit and Truth must be in every Man and Womans heart.</p>
+            <p>And this is the Worship that Christ, the Spiritual &amp; Heavenly Man, set up above sixteen hundred years agoe, when he put down the Worship at the Mountain, where <hi>Jacob</hi>'s-Well was, and at <hi>Jerusalem,</hi> where the Temple was.</p>
+            <pb n="7" facs="tcp:107629:5"/>
+            <p>Now in this, the standing perfect, and Catholick worship in the Spirit, and in the Truth, which the Devil is out of, must God the Father be Worshipped.</p>
+            <p>Now Christ, after he was risen, He sent the Holy Ghost, according to his promise, which should lead the Disciples in<g ref="char:EOLhyphen"/>to all Truth; and he said. <hi>It should reprove the World of Sin, of Righteousness, and of Judgment,</hi> &amp;c.</p>
+            <p>So all the World have a Judgment, and a Righteousness; but the Spirit of Truth, (which leads the true Christians into all Truth, to Christ, from whence it comes, their Lord and Righteousness,) reproves the World for their Sin, for their Judgment, and for their Righteousness.</p>
+            <p>So all the World must turn from their Righteousness, their Judgment, and their Sin, which they are reproved of, if they will be led by the Spirit of Truth, which is the true Christians Leader and Guider into all Truth.</p>
+            <p>And this is the Spirit of Truth that shews the true Christi<g ref="char:EOLhyphen"/>ans things to come; and this is the Spirit which Christ saith shall glorifie me; <hi>For it shall take of mine, and shew it unto you,</hi> to wit, the true Christians.</p>
+            <p>And this Spirit of Truth does all the true Christians witness, which proceeds from the Father and the Son; and this Spirit of Truth leads out of all Error into all Truth, all such as are led, and guided, and taught by it, up to God, from whence it comes.</p>
+            <p>And so up to his Teaching, for it was God that taught <hi>Abra<g ref="char:EOLhyphen"/>ham, Isaac, Jacob,</hi> and <hi>Moses,</hi> and all the Prophets, and is not God the same? And doth not <hi>Moses</hi> say, <hi>Would to God that all the Lords People were Prophets;</hi> and he rebuked him that would have had him to forbid them that were Prophesying in the Camp, as in <hi>Numb.</hi> 11.</p>
+            <p>And does not <hi>Isaiah</hi> say, <hi>All thy Children shall be taught of the Lord, and great shall be the Peace of thy Children,</hi> Isa. <hi>the</hi> 54.</p>
+            <pb n="8" facs="tcp:107629:6"/>
+            <p>And does not Christ Jesus say, <hi>No man cometh to me ex<g ref="char:EOLhyphen"/>cept the Father</hi> which <hi>hath sent me, draw him,</hi> and I will raise him up at the last day.</p>
+            <p>And further Christ saith, it is written in the Prophets, <hi>They shall be all taught of God;</hi> every man therefore that hath heard, and that hath learned of the Father, cometh to me.</p>
+            <p>And doth not <hi>Jeremiah</hi> say by way of Prophesie, speaking of the new Covenant, <hi>I will put my Laws in their inward parts, and write them in their hearts, and I will be their God, and they shall be my People, and they shall not teach no more every man his Neighbour, and every man his Brother, Saying, know the Lord, for they shall all know me from the least of them, to the greatest of them, saith the Lord; for I will forgive them their Iniquities, and I will remember their Sins no more,</hi> Jer. 31.34.</p>
+            <p>
+               <hi>And I will give them a heart to know me, that I am the Lord, and they shall be my People, and I will be their God, for they shall turn unto me with all their whole hearts,</hi> Jer. 24.</p>
+            <p>And in <hi>Jer.</hi> 30.22. <hi>Ye shall be my People, and I will be your God.</hi>
+            </p>
+            <p>And in <hi>Heb.</hi> 8. doth not the Apostle shew there the fulfilling the old Covenant, saying, They shall wax old as a Garment, and Preacheth up the New Covenant; and are not these the days which are the Christians days, the days of the New Co<g ref="char:EOLhyphen"/>venant, wherein all shall know the Lord.</p>
+            <p>Now let the whole House of Christendom, which Pro<g ref="char:EOLhyphen"/>fesses the New Covenant, Christ Jesus, examine themselves; Has God written his Law in your hearts? Hath he put it into your minds? That you can say God is your God, and you are his People, and that you need not to teach every man his Neighbour, and every man his Brother, saying, <hi>know the Lord,</hi> and that you do all know God from the greatest to the least of you.</p>
+            <p>So here if you know this, you are under God's Teachings and his Work, who is at work in your hearts.</p>
+            <pb n="9" facs="tcp:107629:6"/>
+            <p>And can you say as the Christians said in the Apostles days, <hi>We know the Son of God is come, and has given us an under<g ref="char:EOLhyphen"/>standing that we may know Him that is true, and we are in Him that is true, even in his Son Jesus Christ; and whosoever be<g ref="char:EOLhyphen"/>lieveth that Jesus is the Christ, is born of God; and he that be<g ref="char:EOLhyphen"/>lieveth on the Son of God, hath the Witness in himself; and he that hath the Son of God, hath Life; and he that hath not the Son of God, hath not Life?</hi>
+            </p>
+            <p>Come now all you that are called Christians, try your be<g ref="char:EOLhyphen"/>lief; are you born of God? Have you the Witness in your selves? Have ye the Son of God? then ye have Life: Do ye know that ye are of God? Do ye know the Son of God is come? Has he given you an understanding? Do ye know him that is true? to wit, Christ; and are you in him that is true. read 1 <hi>John</hi> 5.</p>
+            <p>For the Apostle said, <hi>After they believed, they were sealed with the Spirit of Promise, and they could set to their Seal</hi> (that the Spirit had sealed them with) <hi>that God was true</hi> in his Prophets, and in his Son, and in all his Promises.</p>
+            <p>And does not the Lord say, <hi>That he hath given Christ for a Witness and a Leader, and a Commander to the People?</hi>
+            </p>
+            <p>Now, is not he come? and is he not God's true and Faith<g ref="char:EOLhyphen"/>ful Witness? and is he your Leader and Commander? Exa<g ref="char:EOLhyphen"/>amine your selves, <hi>Isa.</hi> 55.</p>
+            <p>All that calls your selves Christians, are not you to follow his leading by his Power, Light, and Spirit, and Grace, and Gospel, and obey his Commands?</p>
+            <p>And does not God say, <hi>I will give him for a Light to the Gentiles, that he may be my Salvation to the ends of the Earth?</hi>
+            </p>
+            <p>So he that is the Light to the Gentiles, is God's Salvation to the ends of the Earth.</p>
+            <p>So with the Light, as I said before, you may see your sins, and with the Light you may see Christ your Salvation.</p>
+            <pb n="10" facs="tcp:107629:7"/>
+            <p>And Christ is he that says to <hi>the Prisoners, Go forth;</hi> and to <hi>them that are in darkness, Shew your selves;</hi> and so He is the Feeder of them that Hungers and Thirsts, and the Preserver, and leads them; even by the Springs of Waters shall he guide them; as in <hi>Jer.</hi> 49.</p>
+            <p>So now Christ is come, and you that are called Christians will confess him; but how does he exercise his Offices in you, or amongst you?</p>
+            <p>His Office, as he is a Councellor; do ye hear his Voyce from Heaven, concerning your Heavenly Estate: His Office, as he is a Leader to lead you out of sin and evil, and to rule in your hearts by Faith, as a Commander: His Office, as he is a Shepheard, are you his Sheep? and do ye hear his Voyce? for Christ saith, <hi>I am the good Shepheard, and give my Life for my Sheep:</hi> And again, <hi>I am the good Shepheard, and know my Sheep, and am known of mine.</hi>
+            </p>
+            <p>And <hi>He calleth his Sheep by name, and leadeth them out;</hi> and <hi>when he hath put forth</hi> his Sheep, <hi>he goeth before them; and his Sheep follow him, for they know his Voyce.</hi>
+            </p>
+            <p>Now consider, doth Christ exercise this Office of a Shep<g ref="char:EOLhyphen"/>heard amongst you? do ye follow him? Do ye know his Voyce? And doth he lead you in and out into his Pastures of Life? or do ye know the Voyce of the Hireling and Stran<g ref="char:EOLhyphen"/>ger, and follow them? which his Sheep will not.</p>
+            <p>And likewise how doth Christ exercise his Office, as he is a Bishop to Oversee you, who is the Heavenly and Spiritual Man, with his Heavenly Spirit, Light, and Grace, and the Head of his Church.</p>
+            <p>And how does Christ exercise his Office, as he is a Priest a<g ref="char:EOLhyphen"/>mongst you, who has dyed for you? Do ye feel his Blood sprinkling your hearts, and his pure Water washing you, and He Sanctifying of you, that he may present you <hi>Holy, without spot or wrinckle,</hi> and without blemish to God.</p>
+            <p>And how do ye feel Christ exercising his Office as a Prophet amongst you? Do you <hi>hear him in all things?</hi> Doth he re<g ref="char:EOLhyphen"/>veal
+<pb n="11" facs="tcp:107629:7"/>the Father to you? Which none knows neither Him nor the Father, but by Revelation? Doth he open the Book of Conscience to you? and the Book of the Law, and the Book of the Prophets, and the Book of Parables, and the Book of Life? that you may see your Names written therein; and Christ, the end of the Law and the Prophets, and the Sum and substance of all, who is the <hi>Rock of Ages,</hi> your Rock in the Age to build upon, who is the Foundation of many Genera<g ref="char:EOLhyphen"/>tions, and the Foundation of the Prophets and the Apostles, and your Foundation now to Build upon.</p>
+            <p>And how doth he exercise his Kingly Office amongst you, or in you? Doth He Rule in your hearts by Faith? as he did in the Church in the Primitive Times: So is Christ the Hea<g ref="char:EOLhyphen"/>venly and Spiritual Man your Ruler, by his Power, and Faith, and Spirit, and Grace, in your hearts.</p>
+            <p>And doth not the Apostle bid the Church in his days to <hi>look unto Jesus the Author and Finisher of their Faith:</hi> And now must People look any where else, but to Jesus the Hea<g ref="char:EOLhyphen"/>venly and Spiritual Man, to be the Author and Finisher of their Faith. Is there any Faith that will save, but that which Jesus is the Author of? <hi>Who purifies their hearts,</hi> and <hi>gives them access to God;</hi> or can they please God in any other Faith, but this which Jesus Christ is the Author of? And is not this the Faith that all the Saints are to contend for? which is Ho<g ref="char:EOLhyphen"/>ly, Precious, Pure, and Divine, which Christ the Holy and Spiritual Man is the Author of; and is not this the one Faith which they have from the one Lord? Who is the one Baptiser with his one Baptisme, into one Body, by one Spirit, who throughly <hi>Purgeth the floor</hi> of Men and Womens hearts, and <hi>burns up the Chaff with unquenchable fire,</hi> and gathers <hi>his Wheat into his Garner:</hi> And so are not all the true Christians to walk in the steps of this Faith? which is the Faith of <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> which is the gift of God; and <hi>Jesus is the Author of it,</hi> in which Faith they have all Unity.</p>
+            <pb n="12" facs="tcp:107629:8"/>
+            <p>And is not this the Faith that works by Love?</p>
+            <p>And doth not the Apostle tell the Church of the <hi>Corinthi<g ref="char:EOLhyphen"/>ans,</hi> that if they had not Love, all their Prophesying and their speaking, <hi>Though with the Tongues of Men and Angels, yet if they had not Charity</hi> (or Love) <hi>it was but as sounding Brass and tinkling Cymbals.</hi>
+            </p>
+            <p>And now let the House of Christendom see and examine themselves, whether they have had Love one to another, who have the Tongues, and can speak and understand Histories and Languages with them; yet if ye have not this Love and Cha<g ref="char:EOLhyphen"/>rity, are ye not as <hi>sounding Brass and tinkling Cymbals:</hi> though ye may have all the Scriptures from <hi>Genesis</hi> to the <hi>Re<g ref="char:EOLhyphen"/>velations;</hi> yet being out of this Love, ye are but as sounding Brass, and as tinkling Cymbals.</p>
+            <p>And does not the Apostle say to the Church of the <hi>Galla<g ref="char:EOLhyphen"/>tians, He that is born of the Flesh, persecuted him that was born after the Spirit;</hi> and mark, is it not even so now?</p>
+            <p>Doth not he that is born of the Flesh, succeed his Fore-fa<g ref="char:EOLhyphen"/>thers in Persecution of him that succeeds in the Birth of the Spirit, in the Spiritual Wisdom, in the Spiritual Way, and in the Spiritual Worship; in the Spiritual Praying and Spiri<g ref="char:EOLhyphen"/>tual Baptisme, and Spiritual Circumcision; and walking in the Spirit, and living in the Spiritual Fellowship, the Spirit that leads all the Sons of God, that <hi>keep the Testimony of Jesus,</hi> the Spirit of Prophesie; that keep the Precious, Divine, and Holy Faith, which Jesus is the Author and Finisher of, who is led by this Spirit of Truth: That Christ promised before his Resurrection he would send after his Resurrection, which leads his Disciples, his Learners into all Truth: Are not these the Children of the free Woman: Jerusalem <hi>that is above the Mother of us all?</hi> And are not these them that are Persecuted by the birth of the Flesh?</p>
+            <p>So these true Christians and Sons of God that are led by the Spirit of God, cannot own any Mother below, but <hi>Jerusalem</hi> that <hi>is from above.</hi>
+            </p>
+            <pb n="13" facs="tcp:107629:8"/>
+            <p>So let the House of Christendom see whether they have not been of that Birth that Persecutes him that is born of the Spirit, and gone contrary to Christs commands, who says <hi>Love one another,</hi> and <hi>Love your Enemies;</hi> and let their Teachers see whether they have not gone contrary to Christ's Commands, who said, <hi>Freely ye have Received, freely Give;</hi> and when they had returned back, and had done their Message, Christ askt them, <hi>Whether they lackt for any thing? and they told him, no.</hi>
+            </p>
+            <p>And the Apostle <hi>Paul</hi> that was Convetted after Christ was was risen; he said, <hi>He Coveted no man's Silver or Gold, nor Apparel,</hi> but <hi>laboured with his own hands, that he might keep the Gospel without Charge,</hi> and therein was his Glory.</p>
+            <p>And now have ye succeeded the Apostle in their Heavenly Birth, and in Obedience to this Command and Example a<g ref="char:EOLhyphen"/>foresaid?</p>
+            <p>And <hi>Moses</hi> said, <hi>Would all the Lords People were Prophets,</hi> who was a Judge, a Captain, and a Leader.</p>
+            <p>And I would to God that all the <hi>Kings</hi> and <hi>Rulers</hi> of the Earth were of his mind.</p>
+            <p>And does not the Apostle say, <hi>That God would pour out his Spirit upon all Flesh, and his Sons and Daughters should Prophe<g ref="char:EOLhyphen"/>sie,</hi> and the <hi>Old Men should dream dreams, and the Young Men should see Visions of God,</hi> &amp;c.</p>
+            <p>Now, what is the matter? seeing God doth <hi>pour out his Spi<g ref="char:EOLhyphen"/>rit upon all Flesh,</hi> that your Sons and Daughters do not Pro<g ref="char:EOLhyphen"/>phesie, and that your Old men and Young men, and Hand<g ref="char:EOLhyphen"/>maids and Servants have not their Dreams and the Visions of God. Is it not because that ye vex, and quench, and grieve the Spirit of God, and rebells against it in your hearts, and so comes to be the Birth of the Flesh, and Persecutes him that is born and led by the Spirit?</p>
+            <p>And doth not Christ say, <hi>As ye would that men should do unto you, do ye also to them likewise?</hi> and his Christians, if <hi>they love them only that love them again, what thanks was this?</hi> for Sin<g ref="char:EOLhyphen"/>ners
+<pb n="14" facs="tcp:107629:9"/>did so; or <hi>do good unto them that do good unto you again?</hi> Sinners did so: But Christ says, <hi>You must love your Enemies, and do good unto them that hate you,</hi> Luk. 6.</p>
+            <p>And doth not <hi>James</hi> tell you, that if you fulfil the Royal Law, according to the Scripture, <hi>Thou shalt love thy Neigh<g ref="char:EOLhyphen"/>bour as thy self?</hi> Jam. 2.</p>
+            <p>Now if you love your Neighbour as your selves, ye will not Persecute about his Religion.</p>
+            <p>And let all Nations in Christendom, and elsewhere, consi<g ref="char:EOLhyphen"/>der this; let no Neighbour-Sect in Christendom (as there is many) Persecute, Kill, or Banish, Prison, or Spoyl the Goods of his Neighbour-Sect about Religion, because he will not be of his Religion and of his Faith: For the Apostle tells you, <hi>They themselves had not Power over the Saints Faith:</hi> For, <hi>if you do unto all men as you would have them do unto you,</hi> which is Christ's and the Apostles Doctrine, you would not have any to Banish, Prison, Kill, or Spoyl your Goods con<g ref="char:EOLhyphen"/>cerning your Religion; then pray see you do not so unto o<g ref="char:EOLhyphen"/>thers, and see if you can keep this Royal Law: For would you have the Turks, or Tartars, or Jews to Kill, or Imprison, or spoyl your Goods about your Religion? You say no; then do not you do so to them, nor to one another that are called Christians, that may differ from you in your Religion; for you would not be so served your selves, seeing that the Con<g ref="char:EOLhyphen"/>formity lyes to the Image of God, to which all must be Con<g ref="char:EOLhyphen"/>formable; and in that, the true Uniformity lyes; and unto his Righteousness and Holiness as man was in before he fell: And this is Christs and Gods work to Create them a new, and re<g ref="char:EOLhyphen"/>new them again into his Image; And <hi>God is the rewarder of all them that diligently seek him, and he will judge every man according to his works,</hi> Rev. 20.13.</p>
+            <p>And behold, saith Christ, <hi>I come quickly, and my Reward is with me, to give every man as his Work shall be,</hi> Rev. 22.</p>
+            <p>And Christ saith, <hi>The Son of man shall come in the glory of his Father with his Angels, and then he shall reward every man according to his works.</hi>
+            </p>
+            <pb n="15" facs="tcp:107629:9"/>
+            <p>And the Apostle tells the Church of the <hi>Corinthians, Every man shall receive his Reward according to his own labour:</hi> 1 Cor. 3.</p>
+            <p>And the Apostle said concerning <hi>Alexander</hi> the <hi>Copper-Smith,</hi> which did him much evil, <hi>The Lord Reward him accor<g ref="char:EOLhyphen"/>ding to his works,</hi> 2 Tim. 4.</p>
+            <p>And Christ saith, <hi>Let the Tares and the Wheat grow together, until the Harvest, which is the end of the World, lest they pluck up the good Seed with the bad;</hi> after he had sown the good Seed, and the wicked one came and sowed the Tares; for Christ is the good Seeds-man, and the Devil is the wicked Seeds-man.</p>
+            <p>And he tells them the <hi>Harvest is the end of the world;</hi> and then he will send his Angels to seaver the Wheat from the Tares.</p>
+            <p>And Christ reproved the Servant, <hi>Whose Lord had forgiven him his Debt, who would not forgive his Fellow-servant.</hi>
+            </p>
+            <p>And do not you often say in the Lord's Prayer, <hi>Forgive us as we do forgive them that Trespass against us?</hi> And so you ask the Lord to forgive you your Trespasses, no more but as you do forgive others that have Trespassed against you.</p>
+            <p>And then consider, All you that do not forgive, whether you can expect any forgiveness.</p>
+            <p>So God and Christ, who hath enlightned all, and his grace hath appeared unto all Men, and he hath promised to pour out his Spirit upon all Flesh, and <hi>His Gospel is Preached to every Creature,</hi> and he <hi>hath tasted Death for every man.</hi>
+            </p>
+            <p>It is He that will Reward every Man according to his Works.</p>
+            <p>And there is a day, <hi>When God will judge the secrets of all men by Jesus Christ, according to the Gospel which is Preached to every Creature under Heaven,</hi> Rom. 2.16.</p>
+            <p>And <hi>he hath appointed a day in the which he will judge the World in Righteousness, by the Man Christ Jesus, whom he hath ordained, whereof he hath given assurance to all men, in that he bath raised Christ from the Dead,</hi> Act. 17.</p>
+            <pb n="16" facs="tcp:107629:10"/>
+            <p>And Christ shall judge the Quick and the Dead at his ap<g ref="char:EOLhyphen"/>pearing.</p>
+            <p>So all Judgment is committed unto the Son, and Christ saith, <hi>Judge not, lest you be Judged;</hi> for with what Judgment ye Judge, ye shall be Judged; and with what measure you meet, it shall be met to you.</p>
+            <p>So <hi>let the Beam be pluckt out of your own Eyes, before ye go to pluck the Mote out of your Brothers Eye;</hi> for ye are all Brethren in <hi>Adam.</hi>
+            </p>
+            <p>And <hi>James</hi> tells you, <hi>You must not speak evil one of another; for he that speaketh evil of his Brother, and judges his Brother, speaks evil of the Law, and judges the Law:</hi> But if thou judgest the Law, thou art not a doer of the Law, but a Judge.</p>
+            <p>And <hi>James</hi> saith, <hi>Behold the Judge standeth before the Door.</hi>
+            </p>
+            <p>Mark, what Judge is this? and what Door is this? <hi>Jam.</hi> 4.11.5.9.</p>
+            <p>Here you may see, Christ is the Judge of every Man, accor<g ref="char:EOLhyphen"/>ding to his works; and if ye hate his Light, and turn his Grace into Wantonness, and quench his Spirit, and Rebel against the Holy Ghost, as the Jews did; though ye may make a Pro<g ref="char:EOLhyphen"/>fession of the Scripture, and not walk in the Life that gave them forth, yet God and Christ will Judge you, and Reward you according to your works, (and every Man) whether they be good or evil.</p>
+            <p>So let all Christians give over the work of Persecution, and cast forth that Birth that is Born of the Flesh, which will Perse<g ref="char:EOLhyphen"/>cute; for he must not be Heir with him that is Born of the Spirit.</p>
+            <p>And therefore as the Apostle saith, <hi>Cast forth the Bond-woman and her Son, for he must not Inherit the Kingdom, and the World that hath no end.</hi>
+            </p>
+            <p>I say, the Kingdom of God, that stands in Righteousness and Joy in the Holy Ghost; they that are led by the Holy Ghost, Inherits this.</p>
+            <p>And this first Birth of the Flesh you must cast forth by the Spirit of God.</p>
+            <pb n="17" facs="tcp:107629:10"/>
+            <p>For Christ tells you, <hi>You must be born again, before ye can enter into the Kingdem of God.</hi>
+            </p>
+            <p>And of this Birth I fear many that profess themselves Chri<g ref="char:EOLhyphen"/>stians, are as ignorant of it as <hi>Nichodemus.</hi>
+            </p>
+            <p>But <hi>turn at my Reproof,</hi> saith the Lord, <hi>and behold I will pour out my Spirit upon you, and I will make known my Words unto you.</hi>
+            </p>
+            <p>Now if you will turn at the Reproofes of God's Spirit, ye will come to know his Words, and know this Birth of the Spirit, <hi>Prov.</hi> 1.22.</p>
+            <p>And did not <hi>Moses</hi> say, <hi>That God was the God of the Spirits of all Flesh,</hi> Numb. 16. And did not the Apostle say, <hi>That in God we live, move, and have our Being, as some of your Poets have also said,</hi> says he.</p>
+            <p>And in <hi>Numb.</hi> 27. Did not <hi>Moses</hi> call the Lord, <hi>The God of the Spirits of all Flesh.</hi>
+            </p>
+            <p>And so is not all your eyes to look up unto the Lord God, the Creator of all, and the Life of all; that gives Breath un<g ref="char:EOLhyphen"/>to all, that in Him they may live, and move, and have their Being.</p>
+            <p>And the Lord is not slack concerning his Promise, but is long suffering to us-ward, not willing that any should Perish, but that all should come to Repentance, 2 <hi>Pet.</hi> 2.</p>
+            <p>For Christ also hath once suffered for sin, the Just for the Unjust, that he might bring us to God; mark, that Christ might bring us to God, <hi>Being put to Death in the Flesh, but quickened in the Spirit;</hi> by which, to wit, the Spirit; <hi>Christ also went and Preached unto the Spirits in Prison, which some<g ref="char:EOLhyphen"/>times were disobedient, when once the long-suffering of God wait<g ref="char:EOLhyphen"/>ed in the days of</hi> Noah, <hi>whilst the Ark was preparing, wherein few, that is, eight souls were saved,</hi> 1 Pet. 3. and the rest were Drowned.</p>
+            <p>And now consider, has not the long-suffering of God wait<g ref="char:EOLhyphen"/>ed upon Christendom, and all others; and do ye think that Christ now by his Spirit does not Preach to the Disobedient,
+<pb n="18" facs="tcp:107629:11"/>and the Spirits in Prison; &amp; consider, all that are disobedient to the Spirit of God, are not their Spirits in Prison?</p>
+            <p>And was not the old World overthrown by Water, and they Perished for their Rebellion and Disobedience to God? And do ye not think, that by the same Word and Power, that the Heavens and Earth which are now, are kept in store, re<g ref="char:EOLhyphen"/>served unto Fire against the day of Judgment, and Perdition of ungodly men.</p>
+            <p>So be not Ignorant of this one thing, That one day is with the Lord as a thousand years, and a thousand years as one day: And therefore as the Lord destroyed the Old Ungodly World by Water, so will he destroy the Ungodly World in the Lake of Fire.</p>
+            <p>And so here ye may see Christ by his Spirit was a Preacher to the Spirits in Prison, in the days of <hi>Noah</hi> to the Old World; and now he is a Preacher by his Spirit unto the Spirits that are in Prison, in you that disobey it.</p>
+            <p>For does not <hi>James</hi> tell you, <hi>That the Judge stands at the Door;</hi> what Door is this? Is it not the door of your Hearts, Minds, and Souls?</p>
+            <p>And does not <hi>John</hi> say to the seaven Churches, seaven times, <hi>He that hath an Ear, let him hear what the Spirit saith to the Churches?</hi> and was not this the Spirit of Christ, whom <hi>John</hi> saw walking in the mid'st of the seaven Golden Candle<g ref="char:EOLhyphen"/>sticks, which are the seaven Churches?</p>
+            <p>And does not <hi>John</hi> the Divine say of the Son of God, <hi>That he stands at your Door and knocks?</hi> and saith, <hi>If any Man will hear my Voyce and open the door, I will come into him, and Sup with him, and he with Me,</hi> Rev. 3.</p>
+            <p>So what Door is this that Christ knocks at? Is it not the door of your Hearts, Minds, and Souls? and therefore do not stop your Ears, and close your Eyes, like the <hi>Pharisees,</hi> but <hi>hear Christ's Voyce,</hi> by turning at the Reproofs of his Spirit and his Light; and then he which hath enlightned you <hi>will come in,</hi> and <hi>Sup with you, and you with Him.</hi>
+            </p>
+            <pb n="19" facs="tcp:107629:11"/>
+            <p>And Christ tells <hi>Pilate,</hi> when he was examining of him, <hi>For this cause came I into the World, that I should bear Witness unto the Truth, and every one that is of Truth heareth my Voyce;</hi> mark this, every one of you Christians, every one of you that is of the Truth, heareth Christ's Voyce; but you that are not of the Truth, heareth not his Voyce, and will say there is no hearing of his Voyce now a-days.</p>
+            <p>And <hi>Pilate</hi> the Governor said unto Christ, <hi>What is Truth?</hi> And I fear that there is too many that are called Christians, that Crucifies Christ to themselves a fresh, that may say as <hi>Pilate</hi> did, <hi>What is Truth?</hi> So much are they Strangers to it, <hi>Joh.</hi> 18.</p>
+            <p>And therefore as the Apostle saith to the <hi>Corinthians, Exa<g ref="char:EOLhyphen"/>mine your selves, whether ye be in the Faith,</hi> to wit, that Faith <hi>which Jesus Christ is the Author and Finisher of,</hi> which is Holy, Divine and Precious, and prove your own selves. <hi>Know you not your own selves how that Jesus Christ is in you,</hi> except ye be Reprobates? 2 <hi>Cor.</hi> 13.</p>
+            <p>So examine and prove your selves.</p>
+            <p>Now if you do say, with what, and how shall we examine and prove our selves? The Apostle tells you, <hi>God, who Com<g ref="char:EOLhyphen"/>manded the Light to shine out of Darkness, hath shined into our Hearts, to give the light of the Knowledge of the Glory of God in the face of Christ Jesus; but we have this Treasure in Earthen Vessels,</hi> that the excellency of the <hi>Power may be of God, and not of us.</hi>
+            </p>
+            <p>So this Light that shines in your hearts, will give you the Knowledge if you will come to it; and they that doth Truth will come to it, that with the Light he may see his work, how they are wrought in God; and it will give them the know<g ref="char:EOLhyphen"/>ledge of the Glory of God in the Face of Christ Jesus, where he hath received the Light, which is the Life in him, the Word, in 2 <hi>Cor.</hi> 4. and <hi>Joh.</hi> 1.4. and <hi>Joh.</hi> 3.21.</p>
+            <p>And the Lord God has promised and hath fulfilled, and is fulfilling his Promise: <hi>I will give them one heart, and I will
+<pb n="20" facs="tcp:107629:12"/>put a new Spirit within them, and I will take away the stony Heart out of their Flesh, and they shall walk in my Statutes, and keep my Ordinances, and do them; and they shall be my People, and I will be their God,</hi> Ezek. 11.</p>
+            <p>And in <hi>Ezek.</hi> 18. <hi>Cast away from you your Transgressions, and make you a new Heart and a new Spirit,</hi> &amp;c.</p>
+            <p>
+               <hi>And I will put my Spirit in you, and ye shall Live</hi> saith the Lord; <hi>And I will sprinkle clean Water upon you, and ye shall be clean from all your filthiness, and from all your Idols I will cleanse you: A new Heart also will I give you, and a new Spirit will I put within you, and I will take away the stony Heart out of your Flesh, and I will give you a heart of Flesh,</hi> Ezek. 36.37.</p>
+            <p>And now consider ye Christians, do ye Witness this Spirit? and this new Heart, which all the true Christians doth.</p>
+            <p>And the Lord said, <hi>That his Sheep hath been scattered, and they have wandered through all</hi> Mountains, and from Moun<g ref="char:EOLhyphen"/>tain to Hill; <hi>And he will seek his Sheep, and I will feed them in a good Pasture,</hi> saith the Lord, <hi>and cause them to lye down, and</hi> I <hi>will set one Shepheard over them, and he shall feed them, and he shall be their Shepheard,</hi> Ezek. 34.</p>
+            <p>And is not this Christ, who is the only Feeder of his Sheep.</p>
+            <p>And does not <hi>Solomon</hi> acknowledge, <hi>How God taught</hi> Israel <hi>the good way wherein they should walk,</hi> 2 Chron. 6.</p>
+            <p>And does not <hi>David</hi> say, <hi>The Lord is my Shepheard,</hi> I <hi>shall not want, He maketh me to lye down in green Pastures, He ma<g ref="char:EOLhyphen"/>keth me to lye down besides the still Rivers; He restoreth my soul, and leadeth me in the paths of Righteousness for his Names sake?</hi>
+            </p>
+            <p>Now, can you say so, that are called Christians, and ac<g ref="char:EOLhyphen"/>knowledge <hi>Davids</hi> Teachings as he did, and that the Lord is your Shepheard, and that you do not want?</p>
+            <p>And <hi>David</hi> said, <hi>O God, thou hast taught me from my Youth, and hitherto have I declared thy wondrous works,</hi> Psal. 17.</p>
+            <pb n="21" facs="tcp:107629:12"/>
+            <p>I have not departed from thy Judgments, for thou hast taught me; <hi>How sweet are thy words unto my tast, yea, sweeter than the Honey comb to my mouth,</hi> Psal. 119.102.</p>
+            <p>Now ye Christians consider this, hear <hi>David</hi> acknowledg<g ref="char:EOLhyphen"/>ed God's Teaching, and how sweet his Words were to him: But are God's Words so sweet unto you? and do you hear God and Christ's Voyce?</p>
+            <p>And in <hi>Pro.</hi> 4.11. <hi>I have taught thee in the way of Wisdom, I have led thee in the right Path.</hi>
+            </p>
+            <p>And the Lord said, <hi>I have taught</hi> Ephraim <hi>also to go; and when</hi> Israel <hi>was a Child I loved him, and called my Son out of</hi> Aegypt, <hi>taking them by their Arm, but they knew not that I healed them,</hi> Hos. 11.1, 3.</p>
+            <p>And so ye may see here how they acknowledged the Lord's Teaching.</p>
+            <p>And the Apostle said, I <hi>neither received the Gospel, of Man, neither was</hi> I <hi>taught it, but by the Revelation of Jesus Christ,</hi> Gal. 1.</p>
+            <p>Here the Apostle acknowledgeth, both how he was Taught it, and how he received the Gospel.</p>
+            <p>And the Apostle tells the Church, <hi>As touching Brotherly Love, ye need not that</hi> I <hi>write unto you,</hi> for ye your selves are taught of God, <hi>To Love one another,</hi> 1 Thes. 4.9.</p>
+            <p>Mark here, the Church of the <hi>Thessalonians</hi> were under God's Teaching: And so let all that calls and counts them<g ref="char:EOLhyphen"/>selves Christians, see if they be under God and Christ's Teach<g ref="char:EOLhyphen"/>ing, who is Love, and teaches them to <hi>Love one another,</hi> for it is the Wicked one that teacheth them to hate one another; and <hi>John</hi> tells you, <hi>He that loveth not his Brother is not of God.</hi>
+            </p>
+            <p>And the Apostle bids them, <hi>Hold fast the Word as they had been taught, that they may be able with sound Doctrin to Exhort and Convince the</hi> Gain-sayers, <hi>not to Persecute the</hi> Gain-sayers, <hi>Tit.</hi> 1.9.</p>
+            <p>And <hi>John</hi> tells the Church in his general Epistle, <hi>The A<g ref="char:EOLhyphen"/>noynting
+<pb n="22" facs="tcp:107629:13"/>which ye have received of him, abideth in you; and ye need not that any man teach you, but as the same Anoynting teach<g ref="char:EOLhyphen"/>eth you of all things, and is True, and is no lye; and even as it hath taught you, ye shall abide in him: And these things I have written unto you concerning them that Seduce you,</hi> Epist. 1.2.</p>
+            <p>And now let all that are called Christians, see if they are not Seduced from this <hi>Anoynting Within,</hi> which the true Church received from the Holy One, and whether they are not Seduced from this Teacher which <hi>John</hi> did direct the true Church unto.</p>
+            <p>And you may see how the Lord taught <hi>Moses</hi> and <hi>Aaron,</hi> and what words they should speak to <hi>Pharoah,</hi> Exod. 4.</p>
+            <p>But <hi>Moses</hi> said, <hi>Like unto me will God raise up a Prophet, him shall ye hear in all things:</hi> Now consider all ye Christians, whether do ye believe that God hath raised up this Prophet Christ Jesus? and if so, whether do ye hear him? Who re<g ref="char:EOLhyphen"/>mains in the Heavens till all things be restored. And consi<g ref="char:EOLhyphen"/>der how he doth restore, and by what? for such were restored that sate in the Heavenly places in Christ Jesus.</p>
+            <p>And <hi>David</hi> saith, <hi>O how I love thy Law, it is my Medita<g ref="char:EOLhyphen"/>tion all the day: Through thy Commandements thou hast made me wiser than my Enemies; I have more understanding than all my Teachers, thy Testimonies are my Meditation: I understand more than the Ancients, because I kept thy Precept,</hi> Psal. 119.99.</p>
+            <p>Now consider, Who was <hi>David</hi>'s Teacher, that he did thus profit.</p>
+            <p>
+               <hi>Thus saith the Lord, thy Redeemer, the Holy One of</hi> Israel, <hi>I am the Lord thy God, which teaches thee to profit, which leadeth thee by the way thou should'st go,</hi> Isa. 48.17.</p>
+            <p>So here ye may see God is both the Leader and Teacher, that teacheth his People to profit.</p>
+            <p>And therefore, all ye Christians consider, How is Christ your Leader and Teacher? for we must tell you, the Lord God doth not change, nor his Son, and he is come to Teach
+<pb n="23" facs="tcp:107629:13"/>his Children himself, who teaches them to profit, and <hi>the ma<g ref="char:EOLhyphen"/>nifestation of the Spirit of God is given to every man to profit withal,</hi> 1 Cor. 12.7.</p>
+            <p>And the Lord said to <hi>David, I will instruct thee and teach thee in the way thou should'st go;</hi> I <hi>will guide thee with my eye, and therefore be glad in the Lord, and rejoyce ye Righteous, and shout for joy all ye that are upright in heart,</hi> Psal. 32.</p>
+            <p>Now here you may see the Lord God was the Instructer and the Teacher in his own way, and guides his People with his Eye, which is Spiritual.</p>
+            <p>And <hi>David</hi> said, <hi>Good and upright is the Lord, and there<g ref="char:EOLhyphen"/>fore will he teach Sinners in the way, the Meek will he guide in Judgment, and the Meek will he teach his way; What man is he that feareth the Lord, him shall he teach in the way that he shall chuse; his soul shall dwell at ease, and his Seed shall Inherit the Earth; the Secrets of the Lord are with them that fear him, and he will shew them his Covenant.</hi>
+            </p>
+            <p>And <hi>David</hi> desired God's Teaching, and said, <hi>He was the God of his Salvation,</hi> and on him he <hi>would wait all the day.</hi>
+            </p>
+            <p>And therefore, Oh that them, called Christians, would come to this Meekness, and the fear of God, that they might come under this Teaching, and under the guidance of his Spirit, and have his Secrets revealed to them.</p>
+            <p>And ye may see that God is not the Teacher only of his People, but he will Teach Sinners if they will hearken to him, <hi>Psal.</hi> 25.</p>
+            <p>And <hi>David</hi> said, <hi>Though my Father and Mother should for<g ref="char:EOLhyphen"/>sake me, yet the Lord will take me up: and teach me thy way O Lord, and lead me in a plain Path,</hi> Psal. 27.</p>
+            <p>And here again you may see how <hi>David</hi> doth exalt the Lords Teaching.</p>
+            <p>And again <hi>David</hi> desired the Lord to teach him to do his Will, <hi>For thou art my God, and thy Spirit is good, lead me into the Land of Uprightness,</hi> Psal. 43.</p>
+            <p>So here you may see <hi>David</hi> delighted in God's Teaching, &amp; set it forth upon Record, that all Gods people might do the same</p>
+            <pb n="24" facs="tcp:107629:14"/>
+            <p>And again: <hi>Thus saith God the Lord, He that Created the Heavens, and stretched them out, and spread forth the Earth, and that which cometh out of it; He that giveth breath to the People in it, and Spirit to them that walk therein: I the Lord have called thee in Righteousness, and will hold thy hand and keep thee, and will give thee for a Covenant of the People, and for a light to the Gentiles, to open the blind Eyes, and to bring the Prisoners out from the Prison, and them that sate in darkness, out of the Prison-House,</hi> Isa. 42.</p>
+            <p>Now hear O Christendom, this is Christ Jesus which God hath given for a Covenant of the People, and a light to the Gentiles, who has opened our blind Eyes, and has brought us Prisoners from the Prison, and brought us that sate in dark<g ref="char:EOLhyphen"/>ness, out of the Prison-house; Glory and Praise can we sing un<g ref="char:EOLhyphen"/>to the Lord through Jesus Christ, and say that there is no Sal<g ref="char:EOLhyphen"/>vation by any other Name under the whole Heaven, but by the Name of Jesus.</p>
+            <p>And the Lord saith, <hi>I will pour Water upon him that is Thirsty, and Floods upon the dry ground; and I will pour my Spirit upon thy Seed, and my Blessing upon thy Off-spring, &amp; they shall spring up as amongst the Grass, as Willows by the Water-courses,</hi> Isa. 44.</p>
+            <p>And these Heavenly Eternal Riches do we Witness, and all do that are under God and Christ's Teaching.</p>
+            <p>But we fear that this Prophesie is come to pass upon many in Christendom, as in <hi>Isa.</hi> 29. <hi>The Lord hath poured out upon you the Spirit of deep slumber, and has closed your Eyes; the Prophets, and the Rulers, and the Seers has he covered, and the Vision of all is become unto you as the words of a Book that is sealed.</hi>
+            </p>
+            <p>And what was the cause they could not read the Book? <hi>Be<g ref="char:EOLhyphen"/>cause they drew nigh unto the Lord with their lips, but their hearts were far off him; and they Honoured him with their lips, but have removed their hearts far from me,</hi> saith the Lord, <hi>and their fear towards me is taught by the Precepts of men.</hi>
+            </p>
+            <p>And these were such as Rebelled against God's Spirit, that was poured out upon them.</p>
+            <pb n="25" facs="tcp:107629:14"/>
+            <p>And therefore would the Lord proceed to do a marvellous work amongst such People; for the wisdom of their Wise shall Perish, and the understanding of the Prudent shall be hid.</p>
+            <p>And therefore you may see what <hi>David</hi> says: And the Lord says, <hi>The Sacrifices of God are a broken Spirit, a broken and a contrite heart, O God, thou wilt not despise.</hi>
+            </p>
+            <p>Now let us see if all that profess themselves Christians, have this Sacrifice which God will not despise, <hi>Psal.</hi> 51.</p>
+            <p>And the Lord saith, <hi>Say unto them that are of a fearful heart, Be strong, fear not; behold your God will come with Vengeance, He will come with a Recompense, He will come and save you; then the eyes of the Blind shall be opened, and the ears of the Deaf shall be unstopped; then shall the Lame leap as a Hart, and the tongue of the Dumb shall sing,</hi> Isa. 35.</p>
+            <p>So all Christians that can witness the Lord, is come <hi>to dwell in them, and walk in them,</hi> and <hi>their bodies are the Temples of God;</hi> their blind eyes are opened, and their deaf ears are un<g ref="char:EOLhyphen"/>stopped, and the Lame does leap, and the tongue of the Dumb is loosed, and sings Praises to God: <hi>For he makes Waters in the Wilderness, and streams in the Desart, and springs in the parched ground; and such knows God's high way, and it is called the way of Holiness, the unclean shall not pass over it.</hi>
+            </p>
+            <p>Here is the Holy way to God, Christ Jesus, who bruises the Serpents Head, that has been betwixt Man and God, and made him and his way Unholy; and so through Christ, Man comes again to God.</p>
+            <p>And hear what the Lord saith in <hi>Isaiah</hi> to such as will not hear when the Lord calls, and chuses their own ways, and forsakes the Lords: <hi>I also will chuse their delusion, and will bring their fear upon them, because when I called, none did answer, and when I spoke, none did hear; but they did evil before mine Eyes, and chose that in which I delighted not.</hi>
+            </p>
+            <p>And therefore let all that are called Christians, consider this, that say there is no hearing God, nor Christs Voyce now; for he hath poured his Spirit upon you, that ye might under<g ref="char:EOLhyphen"/>stand it, and hear it.</p>
+            <pb n="26" facs="tcp:107629:15"/>
+            <p>And Christ tells you after he was Risen, that he stands at the Door and knocks, and if any Man will hear his Voyce, he he will come in and Sup with them, and they with him.</p>
+            <p>Now God and Christ calls, but ye will not answer; and if He speak to you by his Power and Spirit, ye will not hear, nor follow Christ which is the way to God, but choose your own ways; therefore what can ye expect but delusion, <hi>Isa.</hi> 66.</p>
+            <p>And now those that will not hear when God spoke to them, nor answer when he called, <hi>They cast them out that trembled at God's Word, from amongst them, and hated them for the Lords Name sake;</hi> and then said unto them, let the Lord be glorified: But saith, the Lord, He shall appear to your Joy, to wit, those that trembled at his Word, but they shall be a<g ref="char:EOLhyphen"/>shamed.</p>
+            <p>But whom shall the Lord and his Christ teach knowledge? and whom shall he make to understand doctrine? <hi>Them that are weaned from the Milk, and drawn from the Breast,</hi> Isa. 28.</p>
+            <p>Now let all Christians consider what Milk and what Breasts this is, if it be not the Milk of the Word, and the Babes that are Born again of the Immortal Seed <hi>that feeds upon this sincere Milk of the Word.</hi>
+            </p>
+            <p>And the Lord said unto <hi>Jeremiah, Behold the day's come, I will make a new Covenant with the House of</hi> Israel <hi>and</hi> Judah, <hi>not according to the Old that I made with their Fathers in the day I brought them out of</hi> Aegypt, <hi>which Covenant they broke: But this is the New Covenant that I will make with them,</hi> saith the Lord. <hi>I will put my Laws in their inward parts, and write them in their hearts, and I will be their God, and they shall be my Peo<g ref="char:EOLhyphen"/>ple; and they shall teach no more every man his Neighbour, and every man his Brother; saying, know the Lord, for they shall all know me from the least of them unto the greatest,</hi> Jer. 31.</p>
+            <p>So now all the Christians that does profess the days of this New Covenant, Christ Jesus: Hath God written his Laws in your hearts, and put them in your inward parts, and your
+<pb n="27" facs="tcp:107629:15"/>minds? Do not ye need to teach every Man his Neighbour, and his Brother? Saying, <hi>Know the Lord:</hi> Do ye all know the Lord, from the least to the greatest of you, by Christ Je<g ref="char:EOLhyphen"/>sus the New Covenant? So that the knowledge of the Lord doth cover the Earth, as the Waters does the Sea, that it shall be the uppermost in you: Are ye in this High, and Glori<g ref="char:EOLhyphen"/>ous, and Everlasting Covenant? and can say that God is your God, and ye are his People? And you do see the end of the old Covenant, and its days, which was to the outward <hi>Jews;</hi> and they are the true <hi>Jews</hi> which are the true Christians in Spi<g ref="char:EOLhyphen"/>rit, <hi>That serves God in the Newness of the Spirit, and not in the Oldness of the Letter,</hi> Rom. 7.6. Rom. 2.28, 29.</p>
+            <p>And in <hi>Micha</hi> 4. where the Lord saith, <hi>Many Nations shall come and say, Come, let us go up to the Mountain of the Lord, the House of the God of</hi> Jacob, <hi>and he shall teach us of his ways, and we will walk in his paths, and they shall sit every Man under his Vine, and under his Figg-tree, and none shall make them a<g ref="char:EOLhyphen"/>fraid, the Mouth of the Lord of Hosts hath spoken it.</hi>
+            </p>
+            <p>And now you may see, here are Nations that will come un<g ref="char:EOLhyphen"/>der God's Teaching, who teacheth them his Way and Path to walk in; and they that are under God's Teaching, do sit under Christ the Vine, and are grafted into Him, and they that abide in Him will bring forth fruit.</p>
+            <p>And let the House of Christendom take heed lest the saying of <hi>Hosea</hi> the Prophet, do not come upon them.</p>
+            <p>
+               <hi>Upon whom the day of Visitation will come, and the day of Re<g ref="char:EOLhyphen"/>compence will come, that say the Prophet is a Fool,</hi> and the Spi<g ref="char:EOLhyphen"/>ritual Man Mad; and say there are no Prophets nor Spiritual men now in their days; as you may see in <hi>Hos.</hi> 9.</p>
+            <p>And these are such as <hi>Quenches the Spirit;</hi> for though the Lord poured out his Spirit upon the House of <hi>Israel,</hi> and said, <hi>He gave them his good Spirit to instruct them, yet they rebelled against it,</hi> Neh. 9.20.</p>
+            <p>And <hi>Stephen</hi> said to the High Priest and Councel of the <hi>Jews,</hi> in his Examination, <hi>Ye Stiff-necked and Uncircumcised in heart
+<pb n="28" facs="tcp:107629:16"/>and ears, ye do always resist the Holy Ghost, as your Fore-fathers did, so do ye,</hi> Act. 9.51.</p>
+            <p>And therefore let all Christians take heed of resisting the Holy Ghost, which reproves them of their Sin, Righteous<g ref="char:EOLhyphen"/>ness, and Judgment; which Holy Ghost the Comforter, the Father doth send in Christ's Name, which did Teach the A<g ref="char:EOLhyphen"/>postles and the Saints all things, and brought to their remem<g ref="char:EOLhyphen"/>brance whatsoever Christ had declared unto them, which Ho<g ref="char:EOLhyphen"/>ly Ghost did come according to Christ's Promise, as in <hi>Act.</hi> 2.</p>
+            <p>And Christ said to his Disciples, when they should be call<g ref="char:EOLhyphen"/>ed before Magistrates for his Names sake, he bade them, <hi>Take no thought what to Answer, for the Holy Ghost shall Teach you in the same hour what ye ought to say.</hi>
+            </p>
+            <p>So here the Holy Ghost was their Teacher, <hi>Luk.</hi> 20.</p>
+            <p>But you may see often the Prophets and Christ speaks to the <hi>Jews, How they stopt their Ears, and closed their Eyes, and would not see with their Eyes, nor hear with their Ears, lest they should be Converted, and he should-heal them; and such Re<g ref="char:EOLhyphen"/>belled against the good Spirit, that God gave them to instruct them, and resisted the Holy Ghost:</hi> And it is well if too many of you, called Christians, do not so now: But some there are that say, They cannot have the same Holy Ghost and Power, as the Apostles had; then they cannot Pray in the same Holy Ghost, nor have the same comfort and fellowship in the Holy Ghost, as they had, nor be led into all Truth.</p>
+            <p>And it is said in <hi>Isa.</hi> 26.9. <hi>With my Soul have I desired thee in the Night, to wit, the Lord; yea, with my Spirit within me will I seek thee early: For when the Judgments are in the Earth, the Inhabitants of the World will learn Righteousness.</hi>
+            </p>
+            <p>So my desire is, that all Christians were of this spirit and mind; and if all Flesh will not obey this good Spirit which strives with them all, when his Judgments are come into the Earth, that will make them to learn Righteousness.</p>
+            <p>For, <hi>Loe, he that formed the Mountains, and Created the Winds, and declareth unto man what is his thoughts, that
+<pb n="29" facs="tcp:107629:16"/>maketh the Morning darkness, and treadeth upon the high places of the Earth, the Lord of Hosts is his Name,</hi> Amos 4.30.</p>
+            <p>Surely this might convince all men, that God is a God at hand, that sheweth unto them their thoughts by his good Spirit.</p>
+            <p>And God strove with the Old World, with his Spirit, and they grieved him, but at last he overthrew them: And God strove with the <hi>Jews</hi> by his Spirit, which he had given them to instruct them, but they rebelled against it, so as at last he o<g ref="char:EOLhyphen"/>verthrew them also.</p>
+            <p>And now God hath sent <hi>his Son to dye for all,</hi> and his Go<g ref="char:EOLhyphen"/>spel is Preacht to all Nations, and every Creature under Hea<g ref="char:EOLhyphen"/>ven; and Christ hath enlightned all with the Light, which is the Life in the Word, which was in the Beginning, and God has poured out his Spirit upon all Flesh: <hi>And the Grace of God which brings Salvation, hath appeared unto all Men, to teach them,</hi> and bring their Salvation.</p>
+            <p>And now, if Christians and others do hate the Divine Light of Christ, and quench his Spirit, and turn his Grace in<g ref="char:EOLhyphen"/>to Wantonness, and walk despitefully against it, and resist the Holy Ghost, which reproves them of their Sin, Righteousness, and Judgment, which is the leader of Christs Disciples into all Truth, and Teacher, and Comforter.</p>
+            <p>I say, let all Christendom take heed lest God-Almighty o<g ref="char:EOLhyphen"/>verthrow them, as he did <hi>Sodom</hi> and the Old World, and the <hi>Jews,</hi> and mingle them amongst the Heathen, as he did them, <hi>for such as have the form of Godliness, and denys the power there<g ref="char:EOLhyphen"/>of, are to be turned away from</hi> by all God's People.</p>
+            <p>And also it is said in <hi>Mich.</hi> 6. <hi>He, to wit, the Lord, hath shewed thee, O Man, what is good, and what the Lord requireth of thee, to do justly, and love Mercy, and to walk humbly with thy God.</hi>
+            </p>
+            <p>Now let all Christendom consider this, High, and Low, what God-Almighty hath shewed unto you, and what he re<g ref="char:EOLhyphen"/>quires of you. First, he hath shewed you what is good, that
+<pb n="30" facs="tcp:107629:17"/>ye might shun the Evil: here God is your Teacher and Shewer of what is good. Secondly, What God doth require of you, after he hath shewen you the good, to wit, to do Justly, to love Mercy, and to walk Humbly with God.</p>
+            <p>Here God sheweth Man his Duty both to God and Man, and how to walk before God and Man; here God is your Teacher by his Spirit, if ye will hear his Voyce, and hearken unto him who shews you this.</p>
+            <p>Now the <hi>Jews</hi> made a great Profession of the Scriptures in the Old Testament, and said, <hi>God was their Father; but Christ told them, if God was their Father, they would love Him, for he proceeded from the Father.</hi>
+            </p>
+            <p>And further, Christ said unto them, <hi>He that is of God, heareth Gods words;</hi> ye <hi>therefore are not of God, because ye hear them not.</hi>
+            </p>
+            <p>And therefore, says Christ to the <hi>Jews, Ye are of your Fa<g ref="char:EOLhyphen"/>ther the Devil, and the Lust of your Father ye will do;</hi> mark ye, Will do, <hi>For the Devil was a Murderer from the Beginning, and abode not in the Truth, because there was no Truth in him;</hi> when he speaks a Lye, he speaks of his own; for he is a Lyar, and the Father of it.</p>
+            <p>Now these <hi>Jews</hi> that were, Erred from the Spirit, and Re<g ref="char:EOLhyphen"/>belled against it, which God had poured upon them, could Profess the Scriptures, and that God was their Father; but Christ said, <hi>Ye are of your Father the Devil, who was a Murde<g ref="char:EOLhyphen"/>rer, and his Lusts ye will do;</hi> and they did it, for they Murder<g ref="char:EOLhyphen"/>ed Christ, <hi>Joh.</hi> 8.42. to 48.</p>
+            <p>And therefore, let all Christendom take heed, lest they err from this Spirit which <hi>God has poured upon all Flesh;</hi> then they go from the Spirit of Truth, and do the Devils Lusts, like the <hi>Jews,</hi> that Crucified Christ without the Gates, and <hi>they come to Crucifie to themselves Christ afresh,</hi> and then Persecute and Murder his Saints, where he is manifest.</p>
+            <p>And the Apostle saith in <hi>Acts</hi> 3. <hi>That</hi> Moses <hi>truly said unto the Fathers, A Prophet shall the Lord your God raise up unto you of
+<pb n="31" facs="tcp:107629:17"/>your Brethren, like unto me, him shall ye hear in all things, what<g ref="char:EOLhyphen"/>soever he shall say unto you; and it shall come to pass that every soul that will not hear that Prophet shall be destroyed from amongst the People.</hi>
+            </p>
+            <p>And further the Apostle saith, <hi>That all the Prophets from</hi> Sa<g ref="char:EOLhyphen"/>muel, <hi>and those that followed after, as many as have spoken of him, likewise foretold of these days, to wit, the days of Christ,</hi> Act. 3.</p>
+            <p>And so <hi>Moses as a Servant, was Faithful in his House; but</hi> Christ, as a Son, is over his House, whose House we are, says the Apostle to the Church in the Primitive Times.</p>
+            <p>Wherefore, as the Holy Ghost saith, <hi>To day, if ye will hear his Voyce, harden not your hearts,</hi> Heb. 3.</p>
+            <p>But you may see whose Voyce we must hear, the Voyce of Christ, the Voyce of this Prophet, whom God hath raised up, and not Man; Christ, the Son of God, who is over the Household of Christendom; and they that do not hear his Voyce, hardens their hearts; and therefore the Holy Ghost saith unto you, <hi>Whilst it is called to day, hear his Voyce,</hi> and therefore ye must not put it off till to morrow, for ye may be dead before to morrow.</p>
+            <p>
+               <hi>And they that despised</hi> Moses<hi>'s Law, dyed without mercy, un<g ref="char:EOLhyphen"/>der two or three Witnesses; how much sorer punishment suppose ye, shall they be thought worthy of, who have troden under foot the Son of God, and counted the blood of the Covenant, wherewith he was Sanctified an Unholy thing, and have dealt despitefully unto the Spirit of Grace,</hi> as in <hi>Heb.</hi> 10.</p>
+            <p>Oh! therefore all ye called Christians, take heed, do not despite unto the Spirit of Grace, but let it be your Teacher to season your words, and stablish your hearts, and it will bring your Salvation.</p>
+            <p>For the true Church, in the Primitive Times, entred into the Holyest by the blood of Jesus, by the New and Living way; and Christ was their High Priest over the Houshold of
+<pb n="32" facs="tcp:107629:18"/>God, which all true Christians were then, and are now, that were the true Church.</p>
+            <p>And the Apostle told them, <hi>That they were come to Mount</hi> Zion, <hi>and unto the City of the Living God, and to the Heavenly</hi> Jerusalem, <hi>and to an Innumerable Company of Angels, and to the General Assembly, the Church of the First Born, written in Heaven, and to God the Judge of all, and the Spirits of just Men made perfect, and to Jesus the Mediator of the New Covenant, and to the Blood of Sprinkling,</hi> &amp;c.</p>
+            <p>
+               <hi>So if they did not escape, that refused him that spoke on Earth, much less shall we escape says he, if we refuse him, to wit, Christ that speaks from Heaven.</hi>
+            </p>
+            <p>So here you may see what the true Church was come to in the Primitive Times, and whom they were to hear, the Pro<g ref="char:EOLhyphen"/>phet whom God had raised up; and this was after Christ was Risen.</p>
+            <p>And now let Christendom examin themselves, and see <hi>if they be come to Mount</hi> Sion, <hi>and to the Heavenly</hi> Jerusalem, <hi>and to the innumerable Company of Angels, and</hi> to the general Assembly and Church of the First-Born, written in Heaven, and to the <hi>Spirits of Just Men made perfect, and to Jesus the Mediator, and to the Blood of Sprinkling;</hi> and that they do not turn away from hearing Christ that speaks from Heaven, <hi>Heb.</hi> 12. <hi>For he stands at the Door and knocks,</hi> Rev. 3.</p>
+            <p>And the Apostle saith, <hi>Such an High Priest became us (to wit, Christ) who is Holy, Harmless, Undefiled, separate from Sinners, and is made higher than the Heavens,</hi> Heb. 7.</p>
+            <p>Now this is the Priest and Prophet, which is over God's House, and becomes it; and all the true Christians that hear Christ's Voyce, are his House; so the true Christians High Priest, is Holy, Harmless; He will do none hurt, but good; He is Undefiled, for He leads out of Defilement, He is separate from Sinners, for no Guile nor Sin is found in his Mouth; He is made higher than the Heavens, and higher than <hi>Aarons</hi> Priesthood, and higher than all the Priesthoods made at
+<pb n="33" facs="tcp:107629:18"/>Schools; and <hi>he remains in the Heavens, until all things be estored,</hi> and he is restoring by his Light, Spirit, and Power, up unto himself: And they that are restored <hi>sits in the Hea<g ref="char:EOLhyphen"/>venly Places in Christ Jesus,</hi> Ephes. 2.6.</p>
+            <p>So God was the Teacher of <hi>Adam</hi> and <hi>Eve</hi> in <hi>Paradice,</hi> and as long as they kept under his Teaching they were Happy.</p>
+            <p>The Serpent was the false and second Teacher, and <hi>Adam</hi> and <hi>Eve</hi> hearkening unto him, and forsaking God's Teaching, they lost <hi>Paradice,</hi> and became unhappy.</p>
+            <p>And God said, <hi>The Seed of the Woman should bruise the Ser<g ref="char:EOLhyphen"/>ents head,</hi> who is the head of all false Teachers.</p>
+            <p>And so as the Apostle said, <hi>God at sundry times, and in di<g ref="char:EOLhyphen"/>vers manners, spoke unto our Fathers by the Prophets; but in these last days he hath spoken unto us by his Son.</hi>
+            </p>
+            <p>So God spoke to the Prophets before the Flood, and after he Flood, and in the time of the Law; but now in these last days (the Christians days) <hi>He hath spoken unto us by his Son:</hi> Us, the Church, the true Christians; so he is the Speaker now to all the true Christians.</p>
+            <p>And so Christ, <hi>by whom all things were made, He was the first, and he is the last;</hi> and he is the Quakers first Speaker and he last; for God hath spoken unto us by his Son, that God, who was the Speaker unto, and Teacher of <hi>Adam</hi> and <hi>Eve</hi> in <hi>Paradice</hi> before they fell: And the Serpent that was the false Teacher and Speaker, Christ bruises the head of him, and through Death destroyed him the power of Death, to wit, the Devil.</p>
+            <p>And I say again, God hath spoken unto us by his Son, who renews us up in the Image and likeness of God, In Righteous<g ref="char:EOLhyphen"/>ness, and Holiness, as <hi>Adam</hi> and <hi>Eve</hi> were in, before they fell.</p>
+            <p>So the same God that was the Speaker unto <hi>Adam</hi> and <hi>Eve</hi> in <hi>Paradice,</hi> has spoken unto us by his Son, who was the Speaker to the Church in the Primitive Times; Glory to God for ever.</p>
+            <pb n="34" facs="tcp:107629:19"/>
+            <p>And all must hear Him, and believe in Him, and follow Him, in the Life.</p>
+            <p>And therefore hearken to his Voyce, and take heed ye be not sound in the spirit of deep slumber, as the <hi>Jews</hi> were in; and have Eyes, and see not, and Ears, and hear not; and that your outward things and inventions be not a Snare and a Trap to you, like unto the <hi>Jews</hi> Table, <hi>whose Table was made a Snare</hi> and a Trap, and a Stumbling block, and a Recompence unto them: Though they talkt of God and Christ, yet they did not receive him when he came. And you, called Christians, talk much of Christ, and that he is come, but if ye have Him not, ye have not Life; and if He be not in you, ye are Re<g ref="char:EOLhyphen"/>probates.</p>
+            <p>And therefore, <hi>Quench not the Spirit of God, nor hate his Light, but believe in it,</hi> as Christ commands, and mind what the Righteousness of Faith speaks; <hi>The Word is nigh thee, even in thy heart, and in thy mouth, to obey it, and do it; and that is the Word of Faith which we Preach,</hi> saith the Apostle.</p>
+            <p>Now if all Christendom had continued in this word of Faith in their hearts and mouths, the Apostle Preacht and o<g ref="char:EOLhyphen"/>beyed it, and done it; they had been all Reconciled to God, and to the Scriptures, and one to another.</p>
+            <p>And the <hi>Holy Men of God gave forth Scriptures, as they were moved by the Holy Ghost;</hi> and Christ saith, <hi>It is the Holy Ghost that leads into all Truth.</hi>
+            </p>
+            <p>So none can be led into all the Truth of the Scriptures, but by the same Holy Ghost that spoke them forth, and such comes to sit under God and Christ's Teaching.</p>
+            <p>And Christ has ended the worldly Sanctuary, and the Ta<g ref="char:EOLhyphen"/>bernacle made with hands, as you may see in the <hi>Hebrews.</hi>
+            </p>
+            <p>And <hi>Stephen</hi> told the <hi>Jews</hi> that much adored the outward Temple: <hi>Solomon</hi> says, he built an House, <hi>How be it, the most High dwells not in Temples made with hands,</hi> as saith the Prophet, <hi>Isa.</hi> 66. <hi>Thus saith the Lord, Heaven is my Throne and Earth is my Foot-stoole; where is the House that ye built unto
+<pb n="35" facs="tcp:107629:19"/>me? Where is the place of my Rest? for all those things hath my hand made, and all those things have been,</hi> saith the Lord; <hi>but to this Man will I look, even to him that is Poor, and of a con<g ref="char:EOLhyphen"/>trite Spirit, and trembles at my Word.</hi>
+            </p>
+            <p>And <hi>Solomon,</hi> that built the Temple, said, <hi>Behold, the Hea<g ref="char:EOLhyphen"/>ven of Heavens cannot contain thee, much less this House that I have built,</hi> 2 Chron. 6. &amp; Act. 7.</p>
+            <p>And the Apostle <hi>Paul</hi> saith, <hi>Act.</hi> 17. <hi>God that made the World, and all things therein, seeing that he is Lord of Heaven and Earth, dwelleth not in Temples made with hands, neither is be Worshipped with mens hands, as though he needed any thing: Seeing He giveth to all, Life and Breath, and all things; and hath made of one Blood, all Nations of Men to dwell upon the face of the Earth,</hi> &amp;c.</p>
+            <p>And the Apostle saith in 1 <hi>Cor.</hi> 6. <hi>What, know ye not that your bodies are the Temples of the Holy Ghost, which is in you, which ye have of God, and ye are not your own.</hi>
+            </p>
+            <p>And in 2 <hi>Cor.</hi> 6. <hi>For ye are the Temple of the Living God,</hi> as God hath said, <hi>I will dwell in them, and walk in them, and I will be their God, and they shall be my People; for ye are bought with a price, to wit, the Blood of Christ, therefore glorifie God in your Bodys, and with your Souls.</hi>
+            </p>
+            <p>And now this is every true Christians Duty, that are sensi<g ref="char:EOLhyphen"/>ble of the price that Christ has paid for them, and are come under God and Christs Spiritual and Heavenly Teaching; and know that they are not their own, but Christ's that has bought them, to <hi>Glorifie God in their Bodies and Spirits, which are God's,</hi> who gave them for that end to Grorifie him withal.</p>
+            <p>
+               <hi>And no man can say that Jesus is the Lord, who was Conceived by the Holy Ghost, (but by the Holy Ghost)</hi> 1 Cor. 12.</p>
+            <p>
+               <hi>And let every one that nameth the Name of Christ, depart from Iniquity,</hi> 2 Tim. 2.19.</p>
+            <p>So let all that are called Christians, first see that they are in the Holy Ghost, and that they do not resist it, and that, they
+<pb n="36" facs="tcp:107629:20"/>call Jesus Lord; that is, call him Lord with, and in the Spirit of Truth, that leads them into all Truth.</p>
+            <p>Secondly, let every one mark, the Command is general; <hi>Let every one that names the Name of Christ, depart from Ini<g ref="char:EOLhyphen"/>quity:</hi> And when they have departed from Iniquity, then let them name the Name of Christ, and then they will not take God and Christ's Name in vain, but know him their Teacher, <hi>That makes an end of Sin, and doth finish Transgression, and makes Reconciliation for Iniquity, and brings in everlasting Righteousness, who is the way to the Father, and is the Prophet that is to be heard in all things.</hi>
+            </p>
+            <p>For <hi>Malachi</hi> saith, <hi>Behold the day cometh that shall burn as an Oven, and all the Proud, that doth Wickedly, shall be as Stubble; and the day that cometh shall burn them up,</hi> saith the Lord of Hosts, <hi>that it shall leave them neither Root nor Branch.</hi>
+            </p>
+            <p>
+               <hi>But unto you that fear my Name, shall the Son of Righteousness arise, with healing under his wings; and ye shall go forth and grow up as Calves of the Stall,</hi> &amp;c.</p>
+            <p>And therefore let all Christendom consider this day that will burn as an Oven, and all the Proud and the Wicked shall be as Stubble burnt up, and not be left neither Root nor Branch.</p>
+            <p>And therefore let Humility throw down Pride, and Virtue Wickedness, and come into the fear of God, and dread the Name of the Lord, that the Son of Righteousness may shine upon you, and heal you, that you may grow up within God's Power and Spirit, as the Calves does in the Stalls, and so be fed of Christ your Shepherd.</p>
+            <p>For as the Prophet saith, <hi>The Ox knoweth his Owner, and the Ass his Masters Crib, but my People does not know Me.</hi> So in this, your Oxe and your Ass Condemns you, and you are more ignorant in your Generations than the Ox and Asse; for they know their Feeders, but you know not God and Christ your Feeder, who took care for Man, and made all things ready
+<pb n="37" facs="tcp:107629:20"/>for Man, before he Created them; for you know, <hi>The sixth day God made Man,</hi> as in <hi>Gen.</hi> 1.</p>
+            <p>And so the Lord that made the Heavens and the Earth, and all things therein, he took care for Man both in Tempo<g ref="char:EOLhyphen"/>ral and Spiritual things, who was <hi>Adam</hi> and <hi>Eves</hi> Teacher in <hi>Paradice;</hi> and now God has spoken unto us by his Son, Who bruises the head of the Serpent, that led <hi>Adam</hi> and <hi>Eve</hi> from God, and renews Man up in the Image of God, as Man was in before he fell; and not up into that only, but up into <hi>the Mea<g ref="char:EOLhyphen"/>sure and Stature of him</hi> that never fell, in whom the Saints <hi>sits down in the Heavenly places, in Christ Jesus, who is their Rock and Foundation, that standeth sure;</hi> the <hi>Amen,</hi> and the Head of his Church, whom God speaks by; and all are to hear Him, and follow Him, if they will have Life and Salvati<g ref="char:EOLhyphen"/>on, who has given his Flesh for the Life of the World.</p>
+            <p>
+               <hi>For who so eateth my Flesh, and drinketh my Blood</hi> (saith Christ) <hi>hath Life Eternal, and dwelleth in me, and I in him; as the Living Father hath sent me, and I live by the Father; so, he that eateth Me, even he shall live by Me; for I am the Living Bread, which came down from Heaven,</hi> Joh. 6.</p>
+            <p>So, All must eat, and feed on this Bread, that comes down from Heaven, if they will live.</p>
+            <p>So it is not a calling what the Prophets, Christ, and the Apostles said, &amp; did, and a persecuting one another about their Words; but eating this Heavenly Bread, if ye have Life; and this is all the true Christians Food, which they must feed upon if they have Life.</p>
+            <p>So here, all may see, It is Christ that gives you Food, and Life Eternal; and has prepared Life Eternal for you: And He is come, as in the Volum of God's Book; <hi>For burnt Offerings, and Sacrifices, thou wouldst not; but a Body hath God prepared him, to do his Will,</hi> Heb. 10. And, that he might take away the first Priest-hood, Covenant, Al<g ref="char:EOLhyphen"/>tar, and Temple, Sanctuary, and Testament, and establish be Second; and ends all the Prophets, Types, and Fi<g ref="char:EOLhyphen"/>gures,
+<pb n="38" facs="tcp:107629:21"/>and Shadowes of him: And so, <hi>through the offering up of the Body of Jesus once for all the Offerings, he Perfects for ever, all them that are Sanctifyed.</hi>
+            </p>
+            <p>So here is the Prophet to open, the Bishop to over-see, and Shepheard to seed, and King to Rule in their Hearts by Faith: And he takes away the old Way that was amongst the Jews, and establishes the New and Living Way; by whom God has spoken unto us, his true Church, who was the first Speaker, and everlasting Speaker.</p>
+            <p>So the Lord is the Teacher of his People by his Son; Glory, and Honour, Thanks, and Praise, be unto Him; for he is Worthy of All, who is over All; from Everlasting, to Everlasting.</p>
+            <p>So here, you may see God is the Teacher, who hath poured out of his Spirit upon all Flesh; but if they harden their hearts, and close their eyes, that they will not see, and stop their ears that they will not hear, and quench his Spirit, though Christ stands at the door of their hearts and knocks; but if they will not open to Him, nor hear his Voyce, they refuse and neglect their Salvation, and their Destruction is of themselves.</p>
+            <p>For <hi>Christ hath enlightned all, that they might see,</hi> and poured out his Spirit upon all, that they might understand and obey: And the Apostle says, <hi>He has tasked Death for all, and is a Propitiation for the Sins of the whole world; and the Gospel, which is the power of God, is Preached to every Creature under Heaven;</hi> so that all are left without excuse, and God is Just and Righteous in his Judging of the World, for all hath had a Visitation by God's Light, Grace, Spirit, and Gospel.</p>
+            <p>And the Prophet saith, <hi>Like unto me will God raise up a Pro<g ref="char:EOLhyphen"/>phet, him shall you hear in all things:</hi> So here you are all in<g ref="char:EOLhyphen"/>vited to hear the Son, and you are invited to come <hi>freely, with<g ref="char:EOLhyphen"/>out Money, and without Price:</hi> And when the Son of God was come, and God had sent him into the World, he said, <hi>Who<g ref="char:EOLhyphen"/>soever believeth in me, he shall not Perish, but have everlasting
+<pb n="39" facs="tcp:107629:21"/>Life:</hi> And God said, <hi>This is my Beloved Son, in whom I am well pleased, hear ye Him.</hi>
+            </p>
+            <p>So here, God invites all to come, and hear his Son; and Christ saith, <hi>Learn of me;</hi> and tells you, <hi>He is the Way, the Truth, and the Life; and no man comes unto the Father, but by him:</hi> And he invites you also to come; and saith, <hi>All that be weary and heavy Laden, he calls to them to come unto him;</hi> for his Burden is light, and his Yoke is easie, that they might find rest to their souls.</p>
+            <p>And the Apostle exhorts you to come unto Christ, and bids you <hi>Look unto him who is the Author and finisher of your Faith:</hi> And Christ tells you, <hi>That all Power in Hea<g ref="char:EOLhyphen"/>ven and Earth is given unto Him;</hi> and He would have all the World, and every Creature to have a Visitation of his Gospel; and therefore did he send his Disciples unto all Nations to Preach it: He who enlightens all with his Hea<g ref="char:EOLhyphen"/>venly Light, to see it and receive it; and God who has poured his Spirit upon all Flesh, by which they might un<g ref="char:EOLhyphen"/>derstand it: So here are all left without excuse; and what could God and Christ have done more for the World then they have done.</p>
+            <p>But if you will have none of God and Christs Teach<g ref="char:EOLhyphen"/>ing, but follow your own ways, and refuse him the Way, the Truth, and the Life; how can you expect but to be Judged in Righteousness?</p>
+            <p>And Christ saith, <hi>He that will be my Disciple, must take up his Cross daily, and follow me;</hi> and this was before he was Crucified upon the outward Cross; and <hi>the Cross of Christ is the Power of God,</hi> 1 Cor. 1.18. Though it be <hi>Foolishness to them that Perish,</hi> and the Preaching of it; <hi>but to us that are saved, it is the Power of God.</hi>
+            </p>
+            <p>And the Apostle tells you, <hi>the Gospel is the Power of God,</hi> as you may see in <hi>Rom.</hi> 1. <hi>Unto Salvation, unto every one that believes.</hi>
+            </p>
+            <p>So here the Prophets and the Apostles invites you to come to God and Christ; and also God and Christ invites you, and
+<pb n="40" facs="tcp:107629:22"/>the <hi>Spirit saith, come; and the Bride saith, come; and let him that heareth Christ, say come,</hi> (that is, invite others) <hi>and let him that Thirsteth, come; and whosoever will, let him take the Water of Life freely.</hi>
+            </p>
+            <p>So what could God and Christ himself, and his Prophets and Apostles, and his Church, that are his Hearers and Lear<g ref="char:EOLhyphen"/>ners say more unto you.</p>
+            <p>So if you will not hear God and Christ's Speaking unto you by his Son, who gives you <hi>freely of the Water of Life,</hi> and Spiritual Food from Heaven: And you have all these Invitations to hear, and be taught of him who is your free Teacher and Feeder; how can ye expect any thing but the Judgments of God, if ye reject him?</p>
+            <p>And therefore this is an Invitation to you all, and a Warn<g ref="char:EOLhyphen"/>ing unto you all, and a Testimony unto you all, High and Low, that are called Christians, who now have time to prize it, lest you pass away your time, and it will be too late; and when time is past, you may say you had time.</p>
+            <p>And therefore <hi>Cease from Man, whose breath is in his Nostrils,</hi> for wherein is he to be counted of? <hi>But look unto me all ye ends of the Earth, and be saved,</hi> saith the Lord.</p>
+            <p>For <hi>John</hi> says, <hi>The Nations of them that are saved, shall walk in the Light of God and the Lamb,</hi> and the Kings of the Earth shall bring their Glory and Honour to it, to wit, <hi>The Heavenly</hi> Jerusalem, <hi>and the Gates of it shall not be shut at all by day, for there is no night there, for the Lord God and the Lamb is the Light thereof.</hi>
+            </p>
+            <p>And so as I have said often before, He is the Tea<g ref="char:EOLhyphen"/>cher by his Son, and therefore hear ye Him, and do not be like <hi>Adam</hi> and <hi>Eve,</hi> who hearkened to the Serpent, and forsook God's Teaching; but what have they gotten by it, but Woe and Misery, and so lost his Image in the Paradice of God.</p>
+            <p>And therefore, now Christ being come to bruise the Serpents head, and to reconcile and redeem Man and Wo<g ref="char:EOLhyphen"/>man
+<pb n="41" facs="tcp:107629:22"/>again to God, out of that misery; I say, to bruise the head of the Serpent, who is the head of Enmity, the <hi>Belial,</hi> who leads men without God's Yoke, and the Dragon the devourer of Man-kind: So Christ has bruised the Head of this Serpent, and in him is Man's peace.</p>
+            <p>So I say, hear God, who speaks now by his Son, who Reconciles to God, and to all things in Heaven, and things in Earth: So here God, who is now the Speaker again by his Son, that was the first Speaker to <hi>Adam,</hi> in his Image, in <hi>Paradice,</hi> who is the Creator of all, and over all, from Everlasting to Everlasting; and if ye will not hear him, consider what became of the House of <hi>Israel,</hi> that God poured out his Spirit upon, they Rebell'd against it; and now God has poured out his Spirit upon all Flesh; and if ye will not turn to the Spirit, and hear God and his Son, but hearken to the Serpent, and follow him, how can you ex<g ref="char:EOLhyphen"/>pect but <hi>to be cast into the Lake of Fire</hi> (with the Ser<g ref="char:EOLhyphen"/>pent) <hi>that burns for ever.</hi>
+            </p>
+            <p>And therefore, <hi>Whilst it is called to day, hear his Voyce, and harden not your hearts,</hi> and not only hear, but obey; for it is the <hi>Obedient to Christ that shall eat the fat of the Hea<g ref="char:EOLhyphen"/>venly Land, and inherit substance.</hi>
+            </p>
+            <p>And so the Lord God, who is the Creator of all, and gives Life and Breath to all, that takes care for all, and is over all his works, who was and is the Speaker by his Son, to the Christians, the first and the last, direct you all, for all are to incline their Ear and hear him, that their Souls may live.</p>
+            <pb facs="tcp:107629:23"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:107629:24"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="1" facs="tcp:107629:24"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:107629:25"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:107629:25"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:107629:26"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:107629:26"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:107629:27"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:107629:27"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="8" facs="tcp:107629:28"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="9" facs="tcp:107629:28"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="10" facs="tcp:107629:29"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="11" facs="tcp:107629:29"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="12" facs="tcp:107629:30"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="13" facs="tcp:107629:30"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="14" facs="tcp:107629:31"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="15" facs="tcp:107629:31"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="16" facs="tcp:107629:32"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="17" facs="tcp:107629:32"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="18" facs="tcp:107629:33"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="19" facs="tcp:107629:33"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="20" facs="tcp:107629:34"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="21" facs="tcp:107629:34"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="22" facs="tcp:107629:35"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="23" facs="tcp:107629:35"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="24" facs="tcp:107629:36"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="25" facs="tcp:107629:36"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="26" facs="tcp:107629:37"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="27" facs="tcp:107629:37"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="28" facs="tcp:107629:38"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="29" facs="tcp:107629:38"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="30" facs="tcp:107629:39"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="31" facs="tcp:107629:39"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="32" facs="tcp:107629:40"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="33" facs="tcp:107629:40"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="34" facs="tcp:107629:41"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="35" facs="tcp:107629:41"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="36" facs="tcp:107629:42"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="37" facs="tcp:107629:42"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="38" facs="tcp:107629:43"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="39" facs="tcp:107629:43"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="40" facs="tcp:107629:44"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="41" facs="tcp:107629:44"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
